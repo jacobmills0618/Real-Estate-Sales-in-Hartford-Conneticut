@@ -1,4 +1,4 @@
-# Real-Estate-Sales-in-Hartford-Conneticut
+# Real-Estate-Sales-in-Hartford-Connecticut
 
 Comprehensive analysis of real estate sales using SQL and Python.   
    
@@ -11,7 +11,7 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
   
 - Investigate missing value patterns and their correlations
 - Determine and visualize trends in sale prices and sale amounts
-- Interprete results using historical housing market context  
+- Interpret results using historical housing market context  
 - Use trend data to predict potential prices and amounts in 2025  
   
    
@@ -39,9 +39,9 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
 
 This project began by addressing the large number of missing values in the dataset. Using SQL queries, I filtered and selected relevant columns of missing data to understand its context and correlation with surrounding data.
 
-Next, I categorized sales into price ranges ("Normal" vs. "Expensive") to avoid skewed visualizations. The results of which produced clear patterns in both price and sale amounts over time.
+Next, I categorized sales into price ranges ("Normal" vs. "Expensive") to avoid skewed visualizations. The results produced clear patterns in both price and sale amounts over time.
 
-I then interpreted these patterns in the context of historical events, with specific regards to the global pandemic and historically low mortgage rates in 2020–2021.
+I then interpreted these patterns in the context of historical events, with specific regard to the global pandemic and historically low mortgage rates in 2020–2021.
 
 Finally, using observed year-over-year changes, I created a basic prediction to estimate what 2025 real estate data might look like if current trends continue.
 
