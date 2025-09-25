@@ -1,10 +1,10 @@
 # Real-Estate-Sales-in-Hartford-Connecticut
 
-Comprehensive analysis of real estate sales using SQL and Python.   
+Comprehensive analysis on Real Estate Sales using SQL and Python.   
    
 # 🚀 Purpose
 
-The purpose of this project was to demonstrate how SQL and Python can be used to extract, clean, and analyze real-world data sets. To achieve this, I explored real estate sale prices and sale amounts in Hartford, Connecticut, and tied relevant context such as the COVID-19 pandemic.
+The purpose of this project was to demonstrate how SQL and Python can be used to analyze real-world data sets. To achieve this, I explored real estate sale prices and sale amounts in Hartford, Connecticut, and tied relevant context such as the COVID-19 pandemic.
    
    
 # 🔍 Project Goals  
@@ -30,25 +30,25 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
 
 # 📈 Key Findings
 
-- Drops in sale amounts matching national housing trends
-- Steady increase in sale prices, likely driven by housing market rates
+- Decreases in sale amounts matching national housing market trends
+- Increase in sale prices, possibly related to housing market rates
 - Correlations between the COVID-19 Pandemic and Real Estate Sales in Hartford.
-- Predictions on sale prices and amounts in 2025.
+- Predictions for sale prices and amounts in 2025.
 
 # Summary
 
-This project began by addressing the large number of missing values in the dataset. Using SQL queries, I filtered and selected relevant columns of missing data to understand its context and correlation with surrounding data.
+I first began this project by addressing the large number of missing values in the dataset. Using SQL queries, I filtered and selected relevant columns of missing data to understand its context with the surrounding data.
 
-Next, I categorized sales into price ranges ("Normal" vs. "Expensive") to avoid skewed visualizations. The results produced clear patterns in both price and sale amounts over time.
+Next, I categorized sale prices into price ranges ("Normal" vs. "Expensive") to avoid skewing my visuals. The results produced comprehensible patterns in both prices and sale amounts over time.
 
-I then interpreted these patterns in the context of historical events, with specific regard to the global pandemic and historically low mortgage rates in 2020–2021.
+Following this, I then interpreted these patterns in the context of historical events, with specific regard to the global pandemic and historical housing market rates.
 
-Finally, using observed year-over-year changes, I created a basic prediction to estimate what 2025 real estate data might look like if current trends continue.
+Finally, using observed changes over time, I created a basic prediction to estimate what 2025 real estate data might look like if current trends continue.
 
 # ⚠️ Improvements 
 
-- The dataset lacked information on rental properties, which excluded a significant portion of the housing market. Including rental trends would provide a more complete picture.
+- Unfortunately, I recognize that the dataset had to exclude a large portion rental properties, which makes up a significant percentage of the housing market. In the future, I would hope to include rental trends that complements my current analysis.
 
-- I would like to expand the analysis by identifying neighborhood-level affluence, based on concentrations of high- and low-value properties.
+- Secondly, with more skills and experience, I think it would be nice to identify neighborhood-level affluence based on concentrations of high- and low-value properties.
 
-- Future work could also integrate geospatial analysis to map and visualize property value distribution across Hartford.
+- Finally, future work could also include geospatial analysis to map and visualize the properties across Hartford.
