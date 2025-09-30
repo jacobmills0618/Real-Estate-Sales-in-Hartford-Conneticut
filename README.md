@@ -4,7 +4,7 @@ Comprehensive analysis on Real Estate Sales using SQL and Python.
    
 # 🚀 Purpose
 
-The purpose of this project was to demonstrate how SQL and Python can be used to analyze real-world data sets. To achieve this, I explored real estate sale prices and sale amounts in Hartford, Connecticut, and tied relevant context such as the COVID-19 pandemic.
+The purpose of this project was to demonstrate how SQL, Python, and Power BI can be used to analyze real-world data sets. To achieve this, I explored real estate sale prices and sale amounts in Hartford, Connecticut, and tied relevant context such as the COVID-19 pandemic.
    
    
 # 🔍 Project Goals  
@@ -13,7 +13,7 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
 - Determine and visualize trends in sale prices and sale amounts
 - Interpret results using historical housing market context  
 - Use trend data to predict potential prices and amounts in 2025  
-  
+- Develop an analytical report using Power BI
    
 # 📁 Files & 🔗 Links   
    
@@ -27,6 +27,7 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
 - Jupyter Notebook
 - Pandas, Seaborn, Matplotlib
 - SQLite3 / SQLite
+- Power BI
 
 # 📈 Key Findings
 
@@ -34,6 +35,21 @@ The purpose of this project was to demonstrate how SQL and Python can be used to
 - Increase in sale prices, possibly related to housing market rates
 - Correlations between the COVID-19 Pandemic and Real Estate Sales in Hartford.
 - Predictions for sale prices and amounts in 2025.
+
+## 📊 Power BI Report: Real Estate Sales Analysis
+
+# 🔍 Key Features:
+
+- Volume of Sales Per Year
+- Summary of Assessor's Land Use 
+- Sale Prices Over Time
+- Average Sale Price
+- Summed Real Estate Sales
+
+  To open this file, you’ll need Power BI Desktop: (https://powerbi.microsoft.com/desktop/)
+
+
+
 
 # Summary
 
@@ -43,7 +59,9 @@ Next, I categorized sale prices into price ranges ("Normal" vs. "Expensive") to 
 
 Following this, I then interpreted these patterns in the context of historical events, with specific regard to the global pandemic and historical housing market rates.
 
-Finally, using observed changes over time, I created a basic prediction to estimate what 2025 real estate data might look like if current trends continue.
+Afterwards, using observed changes over time, I created a basic prediction to estimate what 2025 real estate data might look like if current trends continue.
+
+Finally, tying everything together, I developed an analytical report using Power BI to summarize my findings.
 
 # ⚠️ Improvements 
 
